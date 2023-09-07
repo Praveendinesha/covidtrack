@@ -1,9 +1,10 @@
-# covidtrack
+# CovidTrack
 **Machine learning basic terms / The U.S Covid Tracking Dataset**
 
-Dataset for the Covid Trackings of US.
-Scope of the US Tracking for Covid is unknown.
-Its just a records for the tracking how the patients has been affected, died, and also cured.
-There is no specific target for this tracking. 
-And we could not conclude that any column is a perfect dependent so it is an INDEPENDENT DATASET. 
-Hence the datatset is a UNSUPERWISED - REGRESSIVE DATASET.
+The Public API of US has provided access to the National and State level.
+The data provides,
+the date of records taken, with counts for each
+Positive, Negative and Pending results,
+Ventillated patients for serious cases,
+Currently hospitalized,
+Deaths and the amounts of how the Death, Positive, Negative cases Increases day by day and also the amount of increase in the total test results.
