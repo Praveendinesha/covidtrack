@@ -1,5 +1,5 @@
 # covidtrack
-Machine learning basic terms using for the U.S Covid Tracking Dataset
+**Machine learning basic terms / The U.S Covid Tracking Dataset**
 
 Dataset for the Covid Trackings of US.
 Scope of the US Tracking for Covid is unknown.
