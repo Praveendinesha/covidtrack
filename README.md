@@ -1,10 +1,9 @@
 # CovidTrack
 **Machine learning basic terms / The U.S Covid Tracking Dataset**
 
-The Public API of US has provided access to the National and State level.
-The data provides,
-the date of records taken, with counts for each
-Positive, Negative and Pending results,
-Ventillated patients for serious cases,
-Currently hospitalized,
-Deaths and the amounts of how the Death, Positive, Negative cases Increases day by day and also the amount of increase in the total test results.
+*Dataset for COVID-19 Tracking in the United States*
+
+This dataset contains COVID-19 tracking information for the United States.
+The scope of this tracking dataset is not limited to a specific objective; rather, it records how patients have been affected, the number of fatalities, 
+and those who have recovered. There is no clear target variable in this tracking dataset, making it an **Independent Dataset.**
+Consequently, we classify it as an **Unsupervised, Regression Dataset.**
