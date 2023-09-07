@@ -7,4 +7,4 @@ This dataset contains COVID-19 tracking information for the United States.
 The scope of this tracking dataset is not limited to a specific objective; 
 rather, it records how patients have been affected, the number of fatalities, and those who have recovered. 
 There is no clear target variable in this tracking dataset, making it an INDEPENDENT DATASET. 
-Consequently, we classify it as an UNSUPERVOSED, REGRESSION DATASET.
+Consequently, we classify it as an UNSUPERVISED, REGRESSION DATASET.
