@@ -1,9 +1,10 @@
 COVID TRACKING HISTORIC US VALUES DATASETS
 The U.S API has tracked the covid inflation and that tracking has ended upto March 7, 2021.
 
-Dataset for the Covid Trackings of US.
-Scope of the US Tracking for Covid is unknown.
-Its just a records for the tracking how the patients has been affected, died, and also cured.
-There is no specific target for this tracking. 
-And we could not conclude that any column is a perfect dependent so it is an INDEPENDENT DATASET. 
-Hence the datatset is a UNSUPERWISED - REGRESSIVE DATASET.
+Dataset for COVID-19 Tracking in the United States
+
+This dataset contains COVID-19 tracking information for the United States. 
+The scope of this tracking dataset is not limited to a specific objective; 
+rather, it records how patients have been affected, the number of fatalities, and those who have recovered. 
+There is no clear target variable in this tracking dataset, making it an INDEPENDENT DATASET. 
+Consequently, we classify it as an UNSUPERVOSED, REGRESSION DATASET.
